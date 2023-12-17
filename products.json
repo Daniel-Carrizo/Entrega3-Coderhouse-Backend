@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "title": "Product 1",
+        "description": "Description for Product 1",
+        "price": 100,
+        "thumbnail": "path/to/image1.jpg",
+        "code": "P001",
+        "stock": 10
+      },
+      {
+        "id": 2,
+        "title": "Product 2",
+        "description": "Description for Product 2",
+        "price": 120,
+        "thumbnail": "path/to/image2.jpg",
+        "code": "P002",
+        "stock": 15
+      },
+      {
+        "id": 3,
+        "title": "Product 3",
+        "description": "Description for Product 3",
+        "price": 80,
+        "thumbnail": "path/to/image3.jpg",
+        "code": "P003",
+        "stock": 20
+      },
+      {
+        "id": 4,
+        "title": "Product 4",
+        "description": "Description for Product 4",
+        "price": 150,
+        "thumbnail": "path/to/image4.jpg",
+        "code": "P004",
+        "stock": 5
+      },
+      {
+        "id": 5,
+        "title": "Product 5",
+        "description": "Description for Product 5",
+        "price": 90,
+        "thumbnail": "path/to/image5.jpg",
+        "code": "P005",
+        "stock": 12
+      },
+      {
+        "id": 6,
+        "title": "Product 6",
+        "description": "Description for Product 6",
+        "price": 110,
+        "thumbnail": "path/to/image6.jpg",
+        "code": "P006",
+        "stock": 18
+      },
+      {
+        "id": 7,
+        "title": "Product 7",
+        "description": "Description for Product 7",
+        "price": 130,
+        "thumbnail": "path/to/image7.jpg",
+        "code": "P007",
+        "stock": 8
+      },
+      {
+        "id": 8,
+        "title": "Product 8",
+        "description": "Description for Product 8",
+        "price": 100,
+        "thumbnail": "path/to/image8.jpg",
+        "code": "P008",
+        "stock": 25
+      },
+      {
+        "id": 9,
+        "title": "Product 9",
+        "description": "Description for Product 9",
+        "price": 120,
+        "thumbnail": "path/to/image9.jpg",
+        "code": "P009",
+        "stock": 14
+      },
+      {
+        "id": 10,
+        "title": "Product 10",
+        "description": "Description for Product 10",
+        "price": 140,
+        "thumbnail": "path/to/image10.jpg",
+        "code": "P010",
+        "stock": 7
+      }
+
+]
